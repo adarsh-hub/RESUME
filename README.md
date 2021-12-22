@@ -1,3 +1,3 @@
 # RESUME
 
-[embed]http://example.com/file.pdf[/embed]
+[embed] https://github.com/shankar1-hub/RESUME/blob/main/RESUME.pdf[/embed]
